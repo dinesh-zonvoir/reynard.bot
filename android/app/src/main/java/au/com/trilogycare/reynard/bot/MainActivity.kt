@@ -1,4 +1,4 @@
-package com.example.wallet_app_prokit
+package au.com.trilogycare.reynard.bot
 
 import io.flutter.embedding.android.FlutterActivity
 
