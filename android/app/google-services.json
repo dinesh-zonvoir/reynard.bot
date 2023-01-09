@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165864858351",
+    "firebase_url": "https://carevicinity-a097f-default-rtdb.firebaseio.com",
+    "project_id": "carevicinity-a097f",
+    "storage_bucket": "carevicinity-a097f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165864858351:android:cf806247c023bab719311a",
+        "android_client_info": {
+          "package_name": "au.com.trilogycare.reynard.bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165864858351-idf0aulfru500c72dnml3t6io44580sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.com.trilogycare.reynard.bot",
+            "certificate_hash": "a14c5ac6039df5c8006558fbd17d06c41269015c"
+          }
+        },
+        {
+          "client_id": "165864858351-0njpfc3iaapl43mvmfk5e75mvfh3at3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTblO8wAZpXnUZshTf8c4XPCP-Ru2rp4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165864858351-0njpfc3iaapl43mvmfk5e75mvfh3at3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

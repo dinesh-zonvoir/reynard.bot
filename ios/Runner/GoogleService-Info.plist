@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>165864858351-4drk150ljpaatecmqmrfq6vkqv4e1hll.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165864858351-4drk150ljpaatecmqmrfq6vkqv4e1hll</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>165864858351-idf0aulfru500c72dnml3t6io44580sq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEORs6ruxFBg8IFizkAyaMVGTCkXmVjUQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165864858351</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>au.com.trilogycare.reynard.bot</string>
+	<key>PROJECT_ID</key>
+	<string>carevicinity-a097f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carevicinity-a097f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165864858351:ios:dd8fad1a9ac7d36919311a</string>
+	<key>DATABASE_URL</key>
+	<string>https://carevicinity-a097f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

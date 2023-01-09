@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carevicinity-a097f",
+  "private_key_id": "c29a78fa8148866450747dc9f754eb06518f22e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVd1lqPk4dhQxB\nThH0yxrH1vVBc4dbrWoq/rIJNqaDko3MQTE9R/7EjPTwd5NNrBbhMT9BboU7R8qN\nY0yhlWk2y7bqjAUB7o7XiHKN0PSXLywAvlWwzYy9DJdqTbQ91pedJeTab98xaFlV\n8J7bM5b8M348tR2dZT6Q4yND3eAfjxrAjC/IOyiRwL+EVBiPqohh3z8ah15knOlK\nHR9dVGSvjh70Vi9SKjqp3fZpqRbmpZ+27eR3JLyw+JrDiV5aM773JwqcBontH5mZ\noVI6cmjUgL1d9D9SLW+0tDsFZba3AYXm22AFZJg1qQaBYCZ9jFmFPlJWDLBxN9UD\np9iHnQjFAgMBAAECggEAAXEqCpV4tHebQCmlw7P0v+PWvVLR7Gdpnen6KfUxUxVy\n/i4zPVE4Z7x1nbi4BTWGI2MRv932NbW1TxSCFN1q3lpfZ+qBuKlZqHVKqAw39LN1\nHCBTlew0K08q5AQrtOlt0HIHcx7fZOWJ7+nT5ojo/OlURcRFLMat/Vp4dYgQ+8zz\nLnnQwjupi4XLNLmO1c71VMOCTRwq7QRcgywl1o6Dx05afL0u1SkQTtQnfD78kJlc\nmeskRBh8A2O0fa8Tu8UZFUsIXcJJAWOipcQ6rB9kquAPnNFM0CSPq+emHS9SeK/Z\nRPnDFtoTA21qQcbYtiUWfG7Tf0Rmbkea8X0dp+8g2wKBgQDF6W7bHMFp0w/nrKjg\nndcAFJTDFJQvP1FK5/lhk17z9VPEBLG89M+p5D18BvBYABFzmHvg0OU3op7GeJKT\nwi0Gd2l7a+yAx/0/PzAZD430K0Es8W5ZdcEmHxKeBB1hvkvUJzoy7Dul6jAMa/Ft\n37mAbOsX4ujwcRCyHgZFRe2fswKBgQDBVdcnD8tLhlEpF7GM+y5zUhe6U0CfGUag\neZkHOw7u1hxRBRJ2MYH46GutW9moRjLXWM92+2mfbHnczLKao1mTibGh0LvWLqHU\n/O0t2cUpxdIXib/nTRvqK4v8TEpfvMfZqLN9lL3KiSnUt6m3M/M5pfwMIpylNM/g\nlOA7LUk5pwKBgBYTOYg7Jt+06RtASP303RxnL0irLPQwLdMbGNfnZjnz7Un59BFN\nhTQ//xOsenZ2W3v3UCn9YvPXsboVjNPqXrdP7nYTzad3pym81JKXB5BqmrR2oYZc\n+hRUdvElKFnUrgSV84nmi6iv/HgGOkG1KK3IeFiLuMvI8MHNU4m6iQy9AoGBAJK7\nHnaD8yvXvgMs+1DfVeqqFF4ST0owebzTbMPjG7tCfu0yp0dS3azWYNqKik+/L1jn\nC1XnC8u2HWrpZGger55c85a2/8hXTfWDHFMfIxdIDuJUZnQavqPj9vM9x3iPozHb\napZV7BEqNrg9yC3F3MQU6I0hO7fatCZjdycSgK+jAoGBALf/ZgdIvh0r5fLJNHgd\nfrmkggV+iLubMtgNd4NJBJbnslCmvRohgzu3B62iFoPp2djv0qfhLyLp3qx/uF1E\n7Qd/WLlQiLXwbiuAcBKVNXcNvtRCqhVcXDpiJ/2IUiCrnX1xRzWY8piO0XR16za+\n1szfg2ewgmxFP8SdH/spMZSB\n-----END PRIVATE KEY-----\n",
+  "client_email": "reynard-dialog-flow-services@carevicinity-a097f.iam.gserviceaccount.com",
+  "client_id": "111108622647995381644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reynard-dialog-flow-services%40carevicinity-a097f.iam.gserviceaccount.com"
+}
